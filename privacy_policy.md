@@ -1,6 +1,6 @@
 # Privacy Policy for NetConnectly
 
-**Last updated:** 21 December 2026
+**Last updated:** 18 January 2026
 
 NetConnectly respects your privacy and is committed to protecting it. This Privacy Policy explains how the NetConnectly Android application ("the app") collects, uses, and safeguards information.
 
